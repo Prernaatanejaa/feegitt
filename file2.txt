@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 update3
 updateeeee3
+=======
+update4
+upateeeee4
+>>>>>>> update4
